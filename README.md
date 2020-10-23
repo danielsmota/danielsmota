@@ -5,7 +5,7 @@ I'm Daniel Mota, I've been a Designer for many years and now I'm venturing into 
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielsmota?style=social)](https://twitter.com/danielsmota)
 [![Linkedin: danielsmota](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsmota/)](https://www.linkedin.com/in/danielsmota/)
 
-## Technologies ⚡️
+## ⚡️ Technologies
 
 These are some of the technologies and tools that I work with and study:
 
