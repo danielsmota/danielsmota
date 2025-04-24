@@ -16,3 +16,4 @@ These are some of the technologies and tools that I work with and study:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
 ![WordPress](https://img.shields.io/badge/-WordPress-003c56?style=flat&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=flat&logo=docker&logoColor=white)
+
