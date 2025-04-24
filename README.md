@@ -15,3 +15,4 @@ These are some of the technologies and tools that I work with and study:
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
 ![WordPress](https://img.shields.io/badge/-WordPress-003c56?style=flat&logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-003c56?style=flat&logo=ocker&logoColor=white)
